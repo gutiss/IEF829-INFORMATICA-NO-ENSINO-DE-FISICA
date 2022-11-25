@@ -21,3 +21,18 @@
 #### Cabeçalho Nível 4
 ##### Cabeçalho Nível 5
 ###### Cabeçalho Nível 6
+
+|cor|theta|theta0|
+|---|---|---|
+|x|y|z|
+|a|b|c|
+
+|cor|theta|theta0|
+|--:|--:|--:|
+|x|y|z|
+|a|b|c|
+
+|cor|theta|theta0|
+|:-:|:-:|:-:|
+|x|y|z|
+|a|b|c|
